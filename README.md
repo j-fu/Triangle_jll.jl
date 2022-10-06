@@ -10,7 +10,7 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 
 The tarballs for `Triangle_jll.jl` have been built from these sources:
 
-* git repository: https://github.com/JuliaGeometry/Triangulate.jl.git (revision: `62a8b5fc5d454264f0093487a4ae4fb6e944f6ec`)
+* git repository: https://github.com/JuliaGeometry/Triangle.git (revision: `6a75e9636e5b4437e832fac89b157acc60f8b21c`)
 
 ## Platforms
 
