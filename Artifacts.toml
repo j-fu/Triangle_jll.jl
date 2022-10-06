@@ -1,0 +1,17 @@
+[[Triangle]]
+arch = "x86_64"
+git-tree-sha1 = "d110402dcfeceb3dd95cbf21ea093caf4d3cedab"
+libc = "glibc"
+os = "linux"
+
+    [[Triangle.download]]
+    sha256 = "c2551ed020a7253d1161e755b7ea4f667c16bde7388617766e6e284360b4ecfa"
+    url = "https://github.com/j-fu/Triangle_jll.jl/releases/download/Triangle-v1.6.1+1/Triangle.v1.6.1.x86_64-linux-gnu.tar.gz"
+[[Triangle]]
+arch = "x86_64"
+git-tree-sha1 = "19cdd9b353c181169ec839cbc0eddbbcac984ca6"
+os = "windows"
+
+    [[Triangle.download]]
+    sha256 = "6505338c78a49e21a771aee0c8f0d4f843c54f87cc01a6d251fc90532a533679"
+    url = "https://github.com/j-fu/Triangle_jll.jl/releases/download/Triangle-v1.6.1+1/Triangle.v1.6.1.x86_64-w64-mingw32.tar.gz"
